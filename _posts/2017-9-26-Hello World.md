@@ -12,7 +12,7 @@ Our first project was a week long and unlike the rest of our upcoming projects
 was a collaborative team effort. What a relief that was! Having only recently
 taught myself python, I felt utterly wrecked by pandas this week. I am someone
 who operates with the mentality that if I think something should be possible, it
-must be possible. Therfore, its just a matter of figuring out how to do it. This
+must be possible. Therefore, its just a matter of figuring out how to do it. This
 resulted in my getting caught in a debugging net that prevented me from making
 timely progress analyzing the data set that we were assigned.  
 
